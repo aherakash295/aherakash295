@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  I'm <b>Akash Aher</b> — a passionate <b>Full-Stack Developer (MEAN Stack)</b> who loves crafting elegant solutions through clean code and real-world applications 🚀  
+  I'm <b>Akash Aher</b> — a passionate <b>Full-Stack Developer</b> who loves crafting elegant solutions through clean code and real-world applications 🚀  
   <br/>
   <i>"Consistency, Curiosity & Clean Code"</i>
 </p>
