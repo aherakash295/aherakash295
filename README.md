@@ -103,21 +103,19 @@ I'm a passionate **Full-Stack Developer** from India, with a love for building m
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aherakash295&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-
-  
-</p>
-
----
-
 ## 🔗 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akash-aher-086613216/)
 - 📧 Email: akashaher295@gmail.com
 - 🌐 Portfolio: Coming Soon...
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aherakash295&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
 
 ---
 
