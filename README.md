@@ -67,13 +67,16 @@ I'm a passionate **Full-Stack Developer** from India, with a love for building m
 
 ### **Tools & Platforms**
 
-   <p>
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-   </p>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" />
+</p>
+
 </p>
 
 ---
